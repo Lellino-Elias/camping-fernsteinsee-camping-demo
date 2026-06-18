@@ -91,7 +91,7 @@ const fernsteinsee: CampsiteConfig = {
       {
         title: "Naturnahe Zeltplätze",
         text: "Die A-Kategorie sind reine Zeltplätze im Grünen mit öffentlichen Brunnen und Warmwasserduschen inklusive.",
-        image: { src: `${IMG}/gallery-7093c10325.webp`, alt: "Sonniger Zeltplatz unter Bäumen am Fernsteinsee" },
+        image: { src: `${IMG}/gallery-5e23268262.webp`, alt: "Familie auf naturnahem Zeltplatz im Grünen am Camping Fernsteinsee" },
       },
       {
         title: "Campingstüberl & Terrasse",
