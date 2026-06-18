@@ -145,7 +145,7 @@ const fernsteinsee: CampsiteConfig = {
       {
         title: "Spazieren & Wandern",
         text: "Rund um den See, hinauf zur Zugspitz-Aussicht oder gemütlich am Ufer entlang — Wege gibt es genug.",
-        image: { src: `${IMG}/gallery-6f203c0654.webp`, alt: "Bergsee mit Spiegelung und Bergkulisse bei Fernstein" },
+        image: { src: `${IMG}/gallery-e1513c8f2e.webp`, alt: "Spazierweg am Fernsteinsee mit smaragdgrünem Wasser und Bergkulisse im Sommer" },
       },
     ],
   },
