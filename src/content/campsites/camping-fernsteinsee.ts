@@ -111,7 +111,7 @@ const fernsteinsee: CampsiteConfig = {
       {
         title: "Hunde willkommen",
         text: "Bis zu zwei Vierbeiner dürfen mit — für den Spaziergang rund um den Fernsteinsee ein kleines Paradies.",
-        image: { src: `${IMG}/gallery-6f203c0654.webp`, alt: "Samarangersee mit Bergwald und Tiroler Gipfeln — idyllischer Spazierweg rund um den Fernsteinsee" },
+        image: { src: `${IMG}/gallery-4c2211cac3.webp`, alt: "Weitläufige grüne Parkanlage des Camping Fernsteinsee mit schattigem Spazierweg zwischen Bäumen" },
       },
     ],
   },
